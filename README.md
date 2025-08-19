@@ -41,7 +41,7 @@ END
 
 ## Input
 
-- In the sentence our String was N, becaUSE thw "N" was undefined where N is the length of the string..
+- In the sentence our String was N, becaUSE the "N" was undefined where N is the length of the string..
 
 - The Sentence length was INTEGER :=1
 
