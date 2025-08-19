@@ -39,7 +39,7 @@ BEGIN
 
 END
 
-## On the VAR:
+## Input
 
 - In the sentence our String was N, becaUSE thw "N" was undefined where N is the length of the string..
 
